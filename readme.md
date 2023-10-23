@@ -8,7 +8,6 @@
 
 Personal stuff:
 
-- My repo: https://github.com/skyrpex
 - Cloudy Docs: https://cloudy-docs.vercel.app/
 
 Frameworks mentioned:
